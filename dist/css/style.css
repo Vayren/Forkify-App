@@ -441,6 +441,7 @@ body {
   display: flex;
   flex-direction: column; }
   .shopping__list {
+    overflow-y: scroll;
     list-style: none;
     max-height: 77rem; }
   .shopping__item {
